@@ -1,0 +1,6 @@
+vosk
+pyaudio
+opencv-python
+google-generativeai
+pyttsx3
+numpy
