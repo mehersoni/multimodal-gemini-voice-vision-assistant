@@ -1,4 +1,4 @@
-# StartoPilotTask – Multimodal AI Prototype
+# Multimodal AI Prototype
 
 This project is a speech + image based AI assistant that:
 1. Takes voice input  
